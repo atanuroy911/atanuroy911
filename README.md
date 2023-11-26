@@ -36,7 +36,7 @@ Atanu</a></h1>
 		<a style="margin-left: 10px;" target="_blank" href="#">
 				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
 	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/atanuroy911">
-	<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.png"></a>
+	<img src="https://img.icons8.com/blog"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/atanuroy911">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/atanuroy911">
