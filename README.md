@@ -43,8 +43,8 @@ Atanu</a></h1>
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UCPTTDbT_SKTT9mI8fnR98VA">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-		<a style="margin-left: -5px;" target="_blank" href="https://atanusroy.com/uploads/resume.pdf">
-					<img src="https://img.icons8.com/plasticine/50/resume.png" ></a>
+		<a style="margin-left: 5px;" target="_blank" href="https://atanusroy.com/uploads/resume.pdf">
+					<img style="margin-left: -5px; src="https://img.icons8.com/plasticine/50/resume.png" ></a>
       </div>
 
 </p>
