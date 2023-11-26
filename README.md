@@ -44,7 +44,7 @@ Atanu</a></h1>
 		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UCPTTDbT_SKTT9mI8fnR98VA">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
 		<a style="margin-left: 5px;" target="_blank" href="https://atanusroy.com/uploads/resume.pdf">
-					<img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-resume-unemployment-soft-fill-soft-fill-juicy-fish.png" ></a>
+					<img width='50' height='50' src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-resume-unemployment-soft-fill-soft-fill-juicy-fish.png" ></a>
       </div>
 
 </p>
