@@ -36,7 +36,7 @@ Atanu</a></h1>
 		<a style="margin-left: 10px;" target="_blank" href="#">
 				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
 	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/atanuroy911">
-	<img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/external-blog-graphic-design-justicon-lineal-color-justicon.png"></a>
+	<img width='45' height='45' src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/external-blog-graphic-design-justicon-lineal-color-justicon.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/atanuroy911">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/atanuroy911">
@@ -44,7 +44,7 @@ Atanu</a></h1>
 		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UCPTTDbT_SKTT9mI8fnR98VA">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
 		<a style="margin-left: 5px;" target="_blank" href="https://atanusroy.com/uploads/resume.pdf">
-					<img width='50' height='50' src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-resume-unemployment-soft-fill-soft-fill-juicy-fish.png" ></a>
+					<img width='45' height='45' src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-resume-unemployment-soft-fill-soft-fill-juicy-fish.png" ></a>
       </div>
 
 </p>
