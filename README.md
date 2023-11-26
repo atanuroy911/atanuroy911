@@ -49,4 +49,6 @@ Atanu</a></h1>
 
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atanuroy911&count_private=true&show_icons=true&theme=dracula)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=atanuroy911&count_private=true&show_icons=true&theme=dracula" alt="Anurag's GitHub Stats">
+</div>
