@@ -2,7 +2,7 @@
 Atanu</a></h1>
 <h3 align="center">A passionate Web/Mobile App developer from Bangladesh &#127463;&#127465;</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atanuroy911&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atanuroy911&label=Profile%20views&color=0e75b6&style=flat" alt="atanuroy911" /> </p>
 
 <p align="left"> <a href="https://twitter.com/atanuroy911" target="blank"><img src="https://img.shields.io/twitter/follow/atanuroy911?logo=twitter&style=for-the-badge" alt="atanuroy911" /></a> </p>
 
@@ -16,7 +16,7 @@ Atanu</a></h1>
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning React Native && Flutter 
+- 🌱 I’m currently learning React Native && Flutter
 
 - 💬 Ask me about **Reactjs & React-Native**
 
@@ -36,7 +36,7 @@ Atanu</a></h1>
 		<a style="margin-left: 10px;" target="_blank" href="#">
 				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
 	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/atanuroy911">
-					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
+	<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/atanuroy911">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/atanuroy911">
@@ -44,7 +44,7 @@ Atanu</a></h1>
 		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UCPTTDbT_SKTT9mI8fnR98VA">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
 		<a style="margin-left: 5px;" target="_blank" href="https://atanusroy.com/uploads/resume.pdf">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+					<img src="https://cdn.iconscout.com/icon/free/png-256/free-resume-1956282-1650445.png" ></a>
       </div>
 
 </p>
