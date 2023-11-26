@@ -44,7 +44,7 @@ Atanu</a></h1>
 		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UCPTTDbT_SKTT9mI8fnR98VA">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
 		<a style="margin-left: 5px;" target="_blank" href="https://atanusroy.com/uploads/resume.pdf">
-					<img src="https://cdn.iconscout.com/icon/free/png-256/free-resume-1956282-1650445.png" ></a>
+					<img src="https://img.icons8.com/resume" ></a>
       </div>
 
 </p>
